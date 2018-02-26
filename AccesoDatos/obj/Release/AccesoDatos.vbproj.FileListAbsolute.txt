@@ -1,0 +1,19 @@
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\AccesoDatos\obj\Release\AccesoDatos.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,88 @@
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\ApplicationInsights.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\csc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\vbc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.dll.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab22.Resources.resources
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab2.vbproj.GenerateResource.Cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Release\Lab22.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\ApplicationInsights.config
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\csc.exe
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\vbc.exe
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Lab22.dll.config
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Lab22.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Lab22.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Lab22.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\AccesoDatos.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\EmailSenderLibrary.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\AccesoDatos.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\AccesoDatos.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\EmailSenderLibrary.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\EmailSenderLibrary.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.Resources.resources
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab2.vbproj.GenerateResource.Cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.pdb

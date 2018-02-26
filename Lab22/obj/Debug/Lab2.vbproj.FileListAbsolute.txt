@@ -1,0 +1,159 @@
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\ApplicationInsights.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\csc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\vbc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Lab22.dll.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Lab22.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Lab22.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Lab22.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab22.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab22.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab22.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab22\Lab22\obj\Debug\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\ApplicationInsights.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\csc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\vbc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Lab22.dll.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab22.Resources.resources
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab22\Lab22\obj\Debug\Lab22.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\ApplicationInsights.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\csc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\vbc.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Lab22.dll.config
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Lab22.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Lab22.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Lab22.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\AccesoDatos.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\AccesoDatos.pdb
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\AccesoDatos.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab22.Resources.resources
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab22.dll
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab22.xml
+C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\Lab22\obj\Debug\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\ApplicationInsights.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\csc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\vbc.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.dll.config
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Web.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\AccesoDatos.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.Web.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab2.vbprojResolveAssemblyReference.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab22.Resources.resources
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab2.vbproj.GenerateResource.Cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab22.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab22.xml
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\obj\Debug\Lab22.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.dll
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.pdb
+C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\Lab22\bin\EmailSenderLibrary.xml
