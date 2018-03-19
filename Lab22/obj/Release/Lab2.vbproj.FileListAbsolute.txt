@@ -86,3 +86,4 @@ C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab2.
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.dll
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.xml
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab22.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\obj\Release\Lab2.vbproj.CopyComplete

@@ -21,7 +21,7 @@
             Contraseña
         <asp:TextBox ID="txtPass1" runat="server" TextMode="Password"></asp:TextBox>
             <asp:RequiredFieldValidator ID="reqFieldValPass1" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
-            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="Debe contener al menos 6 digitos" ValidationExpression="^[a-zA-ZÁáÀàÉéÈèÍíÌìÓóÒòÚúÙùÑñüÜ0-9!@#\$%\^&amp;\*\?_~\/]{6,20}$"></asp:RegularExpressionValidator>
+            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="Debe contener al menos 6 digitos" ValidationExpression="^[a-zA-ZÁáÀàÉéÈèÍíÌìÓóÒòÚúÙùÑñüÜ0-9!@#\$%\^&amp;\*\?_~\/]{6,20}$" Enabled="False"></asp:RegularExpressionValidator>
         </p>
         <p>
             <asp:Button ID="Button1" runat="server" Text="Iniciar Sesión" Height="22px" />

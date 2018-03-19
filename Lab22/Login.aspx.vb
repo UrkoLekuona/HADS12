@@ -9,15 +9,23 @@ Public Class WebForm3
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If Page.IsValid Then
             conectar()
-            Dim pass = obtenerpassyconfconemail(txtEmail.Text)
+            Dim pass = obtenerpassyconfytipoconemail(txtEmail.Text)
 
             If pass.Read Then
                 If pass.Item("confirmado") = 0 Then
                     Label1.Text = "Cuenta no confirmada"
                 Else
+                    Session("correo") = txtEmail.Text
                     If txtPass1.Text = Trim(pass.Item("pass")) Then
-                        cerrarconexion()
-                        Response.Redirect("./MainPage.aspx")
+                        If pass.Item("tipo") = "Profesor" Then
+                            cerrarconexion()
+                            Session("tipo") = "Profesor"
+                            Response.Redirect("./Profesor.aspx")
+                        Else
+                            cerrarconexion()
+                            Session("tipo") = "Alumno"
+                            Response.Redirect("./Alumno.aspx")
+                        End If
                     Else
                         Label1.Text = "Contraseña incorrecta"
                     End If

@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters />
+<parameters>
+  <parameter name="HADS-12-TareasConnectionString-Web.config Connection String" description="HADS-12-TareasConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:hads12iu.database.windows.net,1433;Initial Catalog=HADS-12-Tareas;Persist Security Info=True;User ID=ulekuona001;Password=Fritanga10" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Urko\\Documents\\Visual\ Studio\ 2017\\Projects\\Lab2\\Lab22\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS-12-TareasConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

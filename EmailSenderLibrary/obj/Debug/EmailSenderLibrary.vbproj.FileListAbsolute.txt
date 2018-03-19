@@ -18,3 +18,13 @@ C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\EmailSenderLibrary\obj\Debug\Ema
 C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.dll
 C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.xml
 C:\Users\iñigo\Desktop\2018 2-cuatri\HADS\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.Resources.resources
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.vbproj.GenerateResource.Cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.pdb
