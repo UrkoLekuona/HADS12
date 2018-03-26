@@ -25,7 +25,7 @@ Public Class InsertarTarea
     Protected Sub btnAnadir_Click(sender As Object, e As EventArgs) Handles btnAnadir.Click
         Dim rowTar As DataRow = tblTar.NewRow()
         rowTar("codigo") = txtCod.Text
-        rowTar("descripcion") = txtDesc
+        rowTar("descripcion") = txtDesc.Text
         rowTar("hestimadas") = txtHE.Text
         rowTar("codasig") = ddlAsig.SelectedValue
         rowTar("tipotarea") = ddlTipoTar.SelectedValue

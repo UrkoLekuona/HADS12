@@ -7,7 +7,7 @@ Public Class TareasAlumno
     Dim dapAsig, dapTar As New SqlDataAdapter()
     Dim dstAsig, dstTar As New DataSet
     Dim tblAsig, tblTar As New DataTable
-    Dim vista As New DataView
+
 
     Protected Sub GridView1_Sorting(sender As Object, e As GridViewSortEventArgs) Handles GridView1.Sorting
 
@@ -21,8 +21,9 @@ Public Class TareasAlumno
 
     Protected Sub GridView1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles GridView1.SelectedIndexChanged
 
-        Session("CodTarea") = tblTar.Rows(GridView1.SelectedIndex).Item(0).ToString
-        Session("HEst") = tblTar.Rows(GridView1.SelectedIndex).Item(2).ToString
+        Dim dttbl = Session("vista").ToTable(True, "Codigo", "Descripcion", "HEstimadas", "TipoTarea")
+        Session("CodTarea") = dttbl.Rows(GridView1.SelectedIndex).Item(0).ToString
+        Session("HEst") = dttbl.Rows(GridView1.SelectedIndex).Item(2).ToString
         Response.Redirect("InstanciarTarea.aspx")
 
     End Sub
@@ -59,6 +60,7 @@ Public Class TareasAlumno
                 tblTar = dstTar.Tables("Tareas")
 
                 Dim dv As New DataView(tblTar, "CodAsig = '" + DropDownList1.SelectedValue + "'", "Codigo", DataViewRowState.CurrentRows)
+                Session("vista") = dv
                 Dim dt = dv.ToTable(True, "Codigo", "Descripcion", "HEstimadas", "TipoTarea")
                 GridView1.DataSource = dt
                 GridView1.DataBind()
@@ -75,6 +77,7 @@ Public Class TareasAlumno
         tblTar = dstTar.Tables("Tareas")
 
         Dim dv As New DataView(tblTar, "CodAsig = '" + DropDownList1.SelectedValue + "'", "Codigo", DataViewRowState.CurrentRows)
+        Session("vista") = dv
         Dim dt = dv.ToTable(True, "Codigo", "Descripcion", "HEstimadas", "TipoTarea")
 
         GridView1.DataSource = dt
