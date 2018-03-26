@@ -1,0 +1,11 @@
+{
+  "tarea": [
+    {
+      "codigo": "ISO-Lab1",
+      "descripcion": "prueba",
+      "hestimadas": "12",
+      "explotacion": "True",
+      "tipotarea": "Ejercicio"
+    }
+  ]
+}
