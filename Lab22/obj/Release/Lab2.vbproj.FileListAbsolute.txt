@@ -128,3 +128,6 @@ C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\System.Diagno
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Newtonsoft.Json.xml
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Encriptador.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Encriptador.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Lab22\bin\Encriptador.xml

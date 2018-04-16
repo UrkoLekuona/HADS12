@@ -1,0 +1,10 @@
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\bin\Release\Encriptador.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\bin\Release\Encriptador.pdb
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\bin\Release\Encriptador.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.vbprojResolveAssemblyReference.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.Resources.resources
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.vbproj.GenerateResource.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.vbproj.CoreCompileInputs.cache
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.dll
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.xml
+C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Release\Encriptador.pdb

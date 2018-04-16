@@ -1,4 +1,5 @@
-﻿Imports AccesoDatos.accesodatosSQL
+﻿Imports System.Security.Cryptography
+Imports AccesoDatos.accesodatosSQL
 Imports EmailSenderLibrary.EmailSender
 Public Class WebForm1
     Inherits System.Web.UI.Page
@@ -13,7 +14,9 @@ Public Class WebForm1
             Dim i = comprobaremail(txtEmail.Text)
             If i.HasRows = False Then
                 i.Close()
-                Dim numConf = registrar(txtEmail.Text, txtName.Text, txtApe.Text, txtPass1.Text, dropRol.SelectedValue)
+                Dim encrypter = New Encriptador.EncriptarSHA1
+                Dim passEnc = encrypter.getSHA1Hash(txtPass1.Text)
+                Dim numConf = registrar(txtEmail.Text, txtName.Text, txtApe.Text, passEnc, dropRol.SelectedValue)
                 enviarEmail(txtEmail.Text, numConf, 0)
                 cerrarconexion()
                 Response.Redirect("./Confirmar.aspx")
@@ -23,4 +26,5 @@ Public Class WebForm1
             Label2.Text = "Correo ya en uso"
         End If
     End Sub
+
 End Class
