@@ -10,7 +10,11 @@
     End Sub
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
+        Application.Lock()
+        Application.Contents("Profesores").Remove(Session("correo"))
+        Application.UnLock()
         Session.Abandon()
+        FormsAuthentication.SignOut()
         Response.Redirect("../Inicio.aspx")
     End Sub
 End Class

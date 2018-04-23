@@ -29,7 +29,9 @@ Public Class WebForm3
                             Else
                                 FormsAuthentication.SetAuthCookie("Profesor", False)
                             End If
-
+                            Application.Lock()
+                            Application.Contents("Profesores").Add(txtEmail.Text)
+                            Application.UnLock()
                             Response.Redirect("./Profesor/Profesor.aspx")
                         ElseIf pass.Item("tipo") = "Admin" Then
                             cerrarconexion()
@@ -38,6 +40,9 @@ Public Class WebForm3
                         Else
                             cerrarconexion()
                             FormsAuthentication.SetAuthCookie("Alumno", False)
+                            Application.Lock()
+                            Application.Contents("Alumnos").Add(txtEmail.Text)
+                            Application.UnLock()
                             Response.Redirect("./Alumno/Alumno.aspx")
                         End If
                     Else

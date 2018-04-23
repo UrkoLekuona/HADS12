@@ -1,15 +1,49 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Registro.aspx.vb" Inherits="Lab22.WebForm1" %>
 
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+     <style type="text/css">
+      .VeryPoor
+       {
+         background-color:red;
+         }
+
+          .Weak
+        {
+         background-color:orange;
+         }
+
+          .Average
+         {
+          background-color:wheat;
+         }
+          .Excellent
+         {
+         background-color:green;
+         }
+          .Strong
+         {
+         background-color:yellow;
+         }
+          .border
+         {
+          border: medium solid #800000;
+          width:200px;                
+         }
+      </style>
 </head>
 <body>
-    <h2>Registro</h2>
     <form id="form1" runat="server">
+    <h2>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        Registro</h2>
     <div>
     
     </div>
@@ -31,11 +65,20 @@
         </p>
         <p>
             Contraseña
-        <asp:TextBox ID="txtPass1" runat="server" TextMode="Password"></asp:TextBox>
+        <asp:TextBox ID="txtPass1" runat="server" TextMode="Password" autocomplete="off"></asp:TextBox>
             <asp:RequiredFieldValidator ID="reqFieldValPass1" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
             <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="Debe contener al menos 6 digitos" ValidationExpression="^[a-zA-ZÁáÀàÉéÈèÍíÌìÓóÒòÚúÙùÑñüÜ0-9!@#\$%\^&amp;\*\?_~\/]{6,20}$"></asp:RegularExpressionValidator>
-        </p>
-        <p>
+        <ajaxToolkit:PasswordStrength ID="PasswordStrength1" runat="server" TargetControlID="txtPass1" 
+            DisplayPosition="RightSide"
+            StrengthIndicatorType="BarIndicator"
+            PreferredPasswordLength="6"
+            MinimumNumericCharacters="1"
+            RequiresUpperAndLowerCaseCharacters="true"
+            StrengthStyles="VeryPoor; Weak; Average; Strong; Excellent"
+            CalculationWeightings="40;20;20;20"
+            BarBorderCssClass="border" MinimumLowerCaseCharacters="1" MinimumSymbolCharacters="0" MinimumUpperCaseCharacters="1"/>
+        </p>    
+        <p> 
             Confirmar Contraseña
         <asp:TextBox ID="txtPass2" runat="server" TextMode="Password"></asp:TextBox>
             <asp:RequiredFieldValidator ID="reqFieldValPass2" runat="server" ControlToValidate="txtPass2" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>

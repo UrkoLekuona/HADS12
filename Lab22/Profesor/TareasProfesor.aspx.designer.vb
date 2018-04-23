@@ -68,6 +68,24 @@ Partial Public Class TareasProfesor
     Protected WithEvents LinkButton1 As Global.System.Web.UI.WebControls.LinkButton
     
     '''<summary>
+    '''ScriptManager1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ScriptManager1 As Global.System.Web.UI.ScriptManager
+    
+    '''<summary>
+    '''UpdatePanel1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents UpdatePanel1 As Global.System.Web.UI.UpdatePanel
+    
+    '''<summary>
     '''DropDownList1 control.
     '''</summary>
     '''<remarks>
@@ -86,15 +104,6 @@ Partial Public Class TareasProfesor
     Protected WithEvents SqlDataSource2 As Global.System.Web.UI.WebControls.SqlDataSource
     
     '''<summary>
-    '''GridView1 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents GridView1 As Global.System.Web.UI.WebControls.GridView
-    
-    '''<summary>
     '''btnIns control.
     '''</summary>
     '''<remarks>
@@ -102,6 +111,24 @@ Partial Public Class TareasProfesor
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnIns As Global.System.Web.UI.WebControls.Button
+    
+    '''<summary>
+    '''UpdatePanel2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents UpdatePanel2 As Global.System.Web.UI.UpdatePanel
+    
+    '''<summary>
+    '''GridView1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents GridView1 As Global.System.Web.UI.WebControls.GridView
     
     '''<summary>
     '''SqlDataSource1 control.
