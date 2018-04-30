@@ -8,3 +8,12 @@ C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Debug\E
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Debug\Encriptador.dll
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Debug\Encriptador.xml
 C:\Users\Urko\Documents\Visual Studio 2017\Projects\Lab2\Encriptador\obj\Debug\Encriptador.pdb
+C:\Users\ehu\Desktop\Lab2\Encriptador\bin\Debug\Encriptador.dll
+C:\Users\ehu\Desktop\Lab2\Encriptador\bin\Debug\Encriptador.pdb
+C:\Users\ehu\Desktop\Lab2\Encriptador\bin\Debug\Encriptador.xml
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.Resources.resources
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.dll
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.xml
+C:\Users\ehu\Desktop\Lab2\Encriptador\obj\Debug\Encriptador.pdb

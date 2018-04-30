@@ -44,14 +44,16 @@
         <asp:ScriptManager ID="ScriptManager1" runat="server">
         </asp:ScriptManager>
         Registro</h2>
-    <div>
-    
-    </div>
-        Correo electrónico
-        <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ID="reqFieldValEmail" runat="server" ControlToValidate="txtEmail" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
-        <asp:RegularExpressionValidator ID="regValEmail" runat="server" ControlToValidate="txtEmail" ErrorMessage="Introduzca un correo electrónico válido" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" EnableClientScript="False"></asp:RegularExpressionValidator>
-        <asp:Label ID="Label2" runat="server" ForeColor="Red"></asp:Label>
+        
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <ContentTemplate>Correo electrónico
+                <asp:TextBox ID="txtEmail" runat="server" AutoPostBack="True"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="reqFieldValEmail" runat="server" ControlToValidate="txtEmail" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
+                <!--<asp:RegularExpressionValidator ID="regValEmail" runat="server" ControlToValidate="txtEmail" ErrorMessage="Introduzca un correo electrónico válido" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" EnableClientScript="False"></asp:RegularExpressionValidator>-->
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        
+        
         <p>
             Nombre&nbsp;
             <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
@@ -63,21 +65,22 @@
             <asp:RequiredFieldValidator ID="reqFieldValDNI" runat="server" ControlToValidate="txtApe" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
             <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="txtApe" ErrorMessage="Este campo debe estar compuesto por dos 'Apellidos'" ValidationExpression="[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-(\s|$)]{2,48}" EnableClientScript="False"></asp:RegularExpressionValidator>
         </p>
-        <p>
-            Contraseña
-        <asp:TextBox ID="txtPass1" runat="server" TextMode="Password" autocomplete="off"></asp:TextBox>
-            <asp:RequiredFieldValidator ID="reqFieldValPass1" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
-            <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="Debe contener al menos 6 digitos" ValidationExpression="^[a-zA-ZÁáÀàÉéÈèÍíÌìÓóÒòÚúÙùÑñüÜ0-9!@#\$%\^&amp;\*\?_~\/]{6,20}$"></asp:RegularExpressionValidator>
-        <ajaxToolkit:PasswordStrength ID="PasswordStrength1" runat="server" TargetControlID="txtPass1" 
-            DisplayPosition="RightSide"
-            StrengthIndicatorType="BarIndicator"
-            PreferredPasswordLength="6"
-            MinimumNumericCharacters="1"
-            RequiresUpperAndLowerCaseCharacters="true"
-            StrengthStyles="VeryPoor; Weak; Average; Strong; Excellent"
-            CalculationWeightings="40;20;20;20"
-            BarBorderCssClass="border" MinimumLowerCaseCharacters="1" MinimumSymbolCharacters="0" MinimumUpperCaseCharacters="1"/>
-        </p>    
+
+                    Contraseña
+                    <asp:TextBox ID="txtPass1" runat="server" TextMode="Password" autocomplete="off"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="reqFieldValPass1" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="*"></asp:RequiredFieldValidator>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtPass1" EnableClientScript="False" ErrorMessage="Debe contener al menos 6 digitos" ValidationExpression="^[a-zA-ZÁáÀàÉéÈèÍíÌìÓóÒòÚúÙùÑñüÜ0-9!@#\$%\^&amp;\*\?_~\/]{6,20}$"></asp:RegularExpressionValidator>
+                    <ajaxToolkit:PasswordStrength ID="PasswordStrength1" runat="server" TargetControlID="txtPass1" 
+                        DisplayPosition="RightSide"
+                        StrengthIndicatorType="BarIndicator"
+                        PreferredPasswordLength="6"
+                        MinimumNumericCharacters="1"
+                        RequiresUpperAndLowerCaseCharacters="true"
+                        StrengthStyles="VeryPoor; Weak; Average; Strong; Excellent"
+                        CalculationWeightings="40;20;20;20"
+                        BarBorderCssClass="border" MinimumLowerCaseCharacters="1" MinimumSymbolCharacters="0" MinimumUpperCaseCharacters="1"/>
+
+            
         <p> 
             Confirmar Contraseña
         <asp:TextBox ID="txtPass2" runat="server" TextMode="Password"></asp:TextBox>
@@ -91,7 +94,17 @@
             </asp:DropDownList>
         </p>
         <p>
-            <asp:Button ID="Button1" runat="server" Text="Registrarse" Height="22px" />
+            <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                <ContentTemplate>
+                    <asp:Button ID="Button1" runat="server" Text="Registrarse" Height="22px" />
+                    </br>
+                    </br>
+                    <asp:Label ID="Label2" runat="server" ForeColor="Red"></asp:Label>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+            
+                
+            
         </p>
         <p>
             <asp:Label ID="Label1" runat="server"></asp:Label>

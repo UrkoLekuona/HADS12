@@ -37,3 +37,12 @@ C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\EmailSenderLibrary\obj\D
 C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.dll
 C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.xml
 C:\Users\ehu\Documents\Visual Studio 2015\Projects\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.pdb
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.dll
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.pdb
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\bin\Debug\EmailSenderLibrary.xml
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.Resources.resources
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.vbproj.GenerateResource.Cache
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.dll
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.xml
+C:\Users\ehu\Desktop\Lab2\EmailSenderLibrary\obj\Debug\EmailSenderLibrary.pdb

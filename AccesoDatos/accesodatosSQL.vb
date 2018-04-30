@@ -5,7 +5,7 @@ Public Class accesodatosSQL
     Private Shared comando As New SqlCommand
     Public Shared Function conectar() As String
         Try
-            conexion.ConnectionString = “Server=tcp:hads12iu.database.windows.net,1433;Initial Catalog=HADS-12-Tareas;Persist Security Info=False;User ID=ulekuona001;Password=;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+            conexion.ConnectionString = “Server=tcp:hads12iu.database.windows.net,1433;Initial Catalog=HADS-12-Tareas;Persist Security Info=False;User ID=ulekuona001;Password=Fritanga10;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
             conexion.Open()
         Catch ex As Exception
             Return "ERROR DE CONEXIÓN: " + ex.Message
@@ -102,4 +102,18 @@ Public Class accesodatosSQL
             Return False
         End If
     End Function
+
+    Public Shared Function HorasAsig(ByVal Asignaturas As String) As Integer
+        Dim st = "select AVG(hreales) from EstudiantesTareas Join TareasGenericas on codtarea=codigo where codasig='" + Asignaturas + "'"
+        comando = New SqlCommand(st, conexion)
+        Dim reader = comando.ExecuteReader
+        reader.Read()
+
+        If TypeOf reader.Item(0) Is Integer Then
+            Return DirectCast(reader.Item(0), Integer)
+        Else
+            Return 0
+        End If
+    End Function
+
 End Class

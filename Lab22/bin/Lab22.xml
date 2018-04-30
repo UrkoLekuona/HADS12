@@ -676,6 +676,123 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:Lab22.Coordinador._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._lblAlumnos1">
+<summary>
+lblAlumnos1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._lblAlumnos0">
+<summary>
+lblAlumnos0 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._lblAlumnos2">
+<summary>
+lblAlumnos2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._DropDownList1">
+<summary>
+DropDownList1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._SqlDataSource1">
+<summary>
+SqlDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._HyperLink1">
+<summary>
+HyperLink1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.Coordinador._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:Lab22.EstadisticasProfesor._form1">
 <summary>
 form1 control.
@@ -1299,191 +1416,200 @@ To modify move field declaration from designer file to code-behind file.
 </member>
 <member name="F:Lab22.Profesor._form1">
 <summary>
-form1 control.
+Control form1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._Panel1">
 <summary>
-Panel1 control.
+Control Panel1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink2">
 <summary>
-HyperLink2 control.
+Control HyperLink2.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink1">
 <summary>
-HyperLink1 control.
+Control HyperLink1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink8">
 <summary>
-HyperLink8 control.
+Control HyperLink8.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink4">
 <summary>
-HyperLink4 control.
+Control HyperLink4.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink5">
 <summary>
-HyperLink5 control.
+Control HyperLink5.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink6">
 <summary>
-HyperLink6 control.
+Control HyperLink6.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._HyperLink7">
 <summary>
-HyperLink7 control.
+Control HyperLink7.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Lab22.Profesor._HyperLink3">
+<summary>
+Control HyperLink3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._Panel2">
 <summary>
-Panel2 control.
+Control Panel2.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._Label1">
 <summary>
-Label1 control.
+Control Label1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._Label2">
 <summary>
-Label2 control.
+Control Label2.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._ScriptManager1">
 <summary>
-ScriptManager1 control.
+Control ScriptManager1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._UpdatePanel1">
 <summary>
-UpdatePanel1 control.
+Control UpdatePanel1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._lblNumAlum">
 <summary>
-lblNumAlum control.
+Control lblNumAlum.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._lblNumAlum2">
 <summary>
-lblNumAlum2 control.
+Control lblNumAlum2.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._ListAlum">
 <summary>
-ListAlum control.
+Control ListAlum.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._lblNumProf">
 <summary>
-lblNumProf control.
+Control lblNumProf.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._lblNumProf2">
 <summary>
-lblNumProf2 control.
+Control lblNumProf2.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._ListProf">
 <summary>
-ListProf control.
+Control ListProf.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.Profesor._Timer1">
 <summary>
-Timer1 control.
+Control Timer1.
 </summary>
 <remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 <member name="F:Lab22.TareasProfesor._form1">
@@ -1639,6 +1765,15 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:Lab22.WebForm1._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:Lab22.WebForm1._txtEmail">
 <summary>
 txtEmail control.
@@ -1660,15 +1795,6 @@ To modify move field declaration from designer file to code-behind file.
 <member name="F:Lab22.WebForm1._regValEmail">
 <summary>
 regValEmail control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:Lab22.WebForm1._Label2">
-<summary>
-Label2 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -1792,9 +1918,27 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:Lab22.WebForm1._UpdatePanel2">
+<summary>
+UpdatePanel2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:Lab22.WebForm1._Button1">
 <summary>
 Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Lab22.WebForm1._Label2">
+<summary>
+Label2 control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -2025,6 +2169,87 @@ lblEntra control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member>
+<member name="T:Lab22.matriculas.Matriculas">
+<remarks/>
+</member>
+<member name="M:Lab22.matriculas.Matriculas.#ctor">
+<remarks/>
+</member>
+<member name="E:Lab22.matriculas.Matriculas.comprobarCompleted">
+<remarks/>
+</member>
+<member name="M:Lab22.matriculas.Matriculas.comprobar(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.matriculas.Matriculas.comprobarAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.matriculas.Matriculas.comprobarAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Lab22.matriculas.Matriculas.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Lab22.matriculas.comprobarCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Lab22.matriculas.comprobarCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Lab22.matriculas.comprobarCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Lab22.net.azurewebsites.hads1218ws.Servicio1">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.#ctor">
+<remarks/>
+</member>
+<member name="E:Lab22.net.azurewebsites.hads1218ws.Servicio1.DedicacionMediaCompleted">
+<remarks/>
+</member>
+<member name="E:Lab22.net.azurewebsites.hads1218ws.Servicio1.comprobarCompleted">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.DedicacionMedia(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.DedicacionMediaAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.DedicacionMediaAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.comprobar(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.comprobarAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.comprobarAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Lab22.net.azurewebsites.hads1218ws.Servicio1.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Lab22.net.azurewebsites.hads1218ws.DedicacionMediaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Lab22.net.azurewebsites.hads1218ws.DedicacionMediaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Lab22.net.azurewebsites.hads1218ws.DedicacionMediaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Lab22.net.azurewebsites.hads1218ws.comprobarCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Lab22.net.azurewebsites.hads1218ws.comprobarCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Lab22.net.azurewebsites.hads1218ws.comprobarCompletedEventArgs.Result">
+<remarks/>
 </member>
 </members>
 </doc>

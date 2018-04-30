@@ -8,7 +8,7 @@ Public Class EmailSender
             'Direccion de destino
             Dim to_address As New MailAddress(email)
             'Password de la cuenta
-            Dim from_pass As String = ""
+            Dim from_pass As String = "Fritanga12"
             'Objeto para el cliente smtp
             Dim smtp As New SmtpClient
             'Host en este caso el servidor de gmail
